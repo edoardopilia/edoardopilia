@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edoardopilia
-- 🌱 I’m currently studying IT Technology in Cagliari, but I'm self learning C#
+- 🌱 I’m currently studying IT Technology in Cagliari.
 
 <!---
 edoardopilia/edoardopilia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
